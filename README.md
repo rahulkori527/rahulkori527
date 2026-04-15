@@ -1,7 +1,7 @@
-# Hi, I'm Rahul Rajkumar Kori
+# Hi, I'm Rahul Rajkumar Kori 👋
 
 ### Network & Infrastructure Security Engineer | CCNA Certified
-Master’s student at Indiana University focused on network resilience, automation, and session border control.
+**Enthusiastic about building resilient network architectures, mastering complex routing protocols (OSPF, BGP), and securing the modern digital footprint.**
 
 ---
 
@@ -11,8 +11,16 @@ Master’s student at Indiana University focused on network resilience, automati
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 - **Protocols & Routing:** OSPF, BGP, TCP/IP, VLAN Segmentation, 802.1Q Trunking
-- **Infrastructure Hardware:** Cisco Catalyst/Nexus Switches, ASA/Firepower, Ribbon SBC 5000/7000 series
+- **Infrastructure Hardware:** Cisco Catalyst & Nexus Switches, ASA/Firepower, Ribbon SBC 5000/7000 series
 - **Network Ops:** IPAM (NetBox), Wireshark Deep Packet Analysis, DNS/DHCP
+
+---
+
+### 💼 Professional Experience
+**Senior Technical Analyst | Ribbon Communications**
+- **Network Infrastructure:** Managed deployment of Ribbon SBCs within enterprise environments, ensuring seamless interVLAN routing and 802.1Q trunking.
+- **Troubleshooting:** Utilized Wireshark for deep-packet analysis of SBC logs and PCAPs to resolve complex Layer 4–7 issues.
+- **Reliability:** Conducted high-scale stress testing to validate load balancing stability for carrier-grade availability.
 
 ---
 
@@ -27,4 +35,3 @@ Master’s student at Indiana University focused on network resilience, automati
 - **LinkedIn:** [linkedin.com/in/rahul-kori](https://linkedin.com/in/rahul-kori)
 
 ---
-![Rahul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rahulkori527&show_icons=true&theme=dark)
